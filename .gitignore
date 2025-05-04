@@ -1,0 +1,9 @@
+.idea
+venv1
+.venv
+venv
+create_pytest_ini.py
+pytest.ini
+__pycache__
+.pytest_cache
+
